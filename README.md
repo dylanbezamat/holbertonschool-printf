@@ -20,3 +20,4 @@ The number of characters printed, or `-1` on error.
 
 ## Authors
 Dylan Bezamat
+Jean-Patient Lucenay
