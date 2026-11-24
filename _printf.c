@@ -14,6 +14,8 @@ static int handle_spec(char c, va_list *args)
 		{'c', print_char},
 		{'s', print_string},
 		{'%', print_percent},
+		{'d', print_int},
+		{'i', print_int},
 		{'\0', NULL}
 	};
 	int i;
